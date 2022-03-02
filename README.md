@@ -1,5 +1,5 @@
 # Email Sender v1
-A customizable and interactive E-mail sender. It uses Python language, SMPTB and HTML format. It will be upgraded. Run it on your Developer Enviroment, or Terminal using:
+A customizable and interactive E-mail sender. It uses Python language, SMPT and HTML format. It will be upgraded. Run it on your Developer Enviroment, or Terminal using:
 'python3 main.py'
 
 ## Installation
